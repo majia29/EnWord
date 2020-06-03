@@ -1,2 +1,2 @@
-# EnWord
+# EnglishWord
 English Word List
